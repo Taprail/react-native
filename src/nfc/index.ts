@@ -1,0 +1,1 @@
+export { TaprailNFC } from './TaprailNFC';
